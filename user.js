@@ -356,6 +356,8 @@ user_pref("network.protocol-handler.expose.chrome",		true);
 user_pref("network.protocol-handler.expose.blob",		true);
 user_pref("network.protocol-handler.expose.data",		true);
 
+user_pref("network.negotiate-auth.delegation-uris", "https://paphsx0022.ph.prod:8090");
+
 /******************************************************************************
  * SECTION: Extensions / plugins                                                       *
  ******************************************************************************/
