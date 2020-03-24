@@ -356,8 +356,8 @@ user_pref("network.protocol-handler.expose.chrome",		true);
 user_pref("network.protocol-handler.expose.blob",		true);
 user_pref("network.protocol-handler.expose.data",		true);
 
-user_pref("network.negotiate-auth.delegation-uris", "https://vm-head02:8092,https://paphsx0022.ph.prod:8090,https://paphsx0025.ph.prod:50475,https://paphsx0023.ph.prod:19890,https://vm-worker01:8044,https://vm-worker02:8044,https://vm-worker03:8044,https://vm-worker04:8044");
-user_pref("network.negotiate-auth.trusted-uris", "https://vm-head02:8092,https://paphsx0022.ph.prod:8090,https://paphsx0025.ph.prod:50475,https://paphsx0023.ph.prod:19890,https://vm-worker01:8044,https://vm-worker02:8044,https://vm-worker03:8044,https://vm-worker04:8044");
+user_pref("network.negotiate-auth.delegation-uris", "https://vm-utility01:19890,https://vm-head02:8092,https://paphsx0022.ph.prod:8090,https://paphsx0025.ph.prod:50475,https://paphsx0023.ph.prod:19890,https://vm-worker01:8044,https://vm-worker02:8044,https://vm-worker03:8044,https://vm-worker04:8044");
+user_pref("network.negotiate-auth.trusted-uris", "https://vm-utility01:19890,https://vm-head02:8092,https://paphsx0022.ph.prod:8090,https://paphsx0025.ph.prod:50475,https://paphsx0023.ph.prod:19890,https://vm-worker01:8044,https://vm-worker02:8044,https://vm-worker03:8044,https://vm-worker04:8044");
 /******************************************************************************
  * SECTION: Extensions / plugins                                                       *
  ******************************************************************************/
